@@ -1,0 +1,40 @@
+.banner {
+    position: relative;
+    width: 100%;
+}
+
+.titlearea {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 999;
+    background-color: #ffffffcf;
+    padding: 40px;
+    border-radius: 20px;
+    max-width: 800px;
+    width: 100%;
+    padding-top: 20px;
+}
+
+.titlearea h2 {
+    color: #003d67;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 15px;
+}
+
+.titlearea p {
+    color: #212121;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.bannerLogo img {
+    width: 280px;
+    margin: auto;
+    display: block;
+}

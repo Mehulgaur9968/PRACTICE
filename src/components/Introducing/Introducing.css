@@ -1,0 +1,108 @@
+.need {
+    position: relative;
+    width: 100%;
+    margin: 60px 0;
+}
+
+.titles h2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.accordion>.card {
+    margin: 10px 0;
+}
+
+.accordion>.card>.card-header {
+    margin-bottom: 0px;
+    background-color: #eff5ff;
+}
+
+.icons .analysisBox {
+    min-height: 245px;
+}
+
+.icons .analysisBox img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 15px;
+}
+
+.btn-link.text-left {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.btn-link,
+.btn-link:hover,
+.btn-link:focus {
+    text-decoration: none;
+    color: #4e4e4e;
+    font-size: 18px;
+    font-weight: 600;
+    outline: none;
+    box-shadow: none;
+}
+
+.card i {
+    color: #032761;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.cardBox {
+    border-radius: 15px;
+    box-shadow: 0 0 12px -6px #999;
+    background-color: #fff;
+    min-height: 280px;
+}
+
+.cardHead {
+    background-color: #032761;
+    padding: 10px 20px;
+    border-radius: 10px 10px 0 0;
+}
+
+.cardBox h2 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+}
+
+.cardBox h3 {
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: 10px;
+}
+
+.cardBox ul {
+    margin-left: -20px;
+}
+
+.icons .analysisBox {
+    min-height: 245px;
+}
+
+.accordion h3 {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: #5c5c5c;
+}
+
+.need p {
+    font-size: 15px;
+}
+
+.icon-minus::before {
+  font-family: "Font Awesome 5 Free";  /* FA5 solid icons */
+  font-weight: 900;                     /* solid style */
+  content: "\f068";                     /* Unicode for minus icon */
+  font-size: 18px;
+  color: #333;
+  margin-left: 8px;
+}

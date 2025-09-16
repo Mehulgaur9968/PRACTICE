@@ -1,0 +1,37 @@
+.need {
+    position: relative;
+    width: 100%;
+    margin: 60px 0;
+}
+
+.need.projected .titles {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.need p {
+    font-size: 15px;
+}
+
+.projected .box2 {
+    text-align: center;
+    margin: 15px auto;
+    border: 1px solid #ccc;
+    padding: 30px;
+    min-height: 234px;
+}
+.box2 img {
+    width: 70px;
+    height: 70px;
+    object-fit: contain;
+    margin-bottom: 15px;
+}
+.box2 h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.need p {
+    font-size: 15px;
+}
