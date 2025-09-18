@@ -27,11 +27,10 @@ function Header() {
                         <div className="dropdown">
                             <Link to="#" className="btn-register">Register</Link>
                             <ul className="dropdownMenu">
-                                <li><Link to="/register/student">Student</Link></li>
-                                <li><Link to="/register/faculty">Faculty</Link></li>
-                                <li><Link to="/register/institute">Institute</Link></li>
-                                <li><Link to="/register/industry">Industry</Link></li>
-                                <li><Link to="/register/other">Other</Link></li>
+                                <li><Link to="/register/Institute-Mentor">Institute Mentor</Link></li>
+                                <li><Link to="/register/Institute-Mentee">Institute Mentee</Link></li>
+                                <li><Link to="/register/Mentor">Mentor</Link></li>
+                                <li><Link to="/register/Student-login">Student Login</Link></li>
                             </ul>
                         </div>
                     </div>
